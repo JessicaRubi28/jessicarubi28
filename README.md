@@ -1,10 +1,10 @@
-##Hi there, I'm Jessica Rubi👋
+## Hi there, I'm Jessica Rubi👋
 
 I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Data Analysis**. My work bridges the gap between human psychology and data-driven market insights to analyze consumer habits, Build strategic branding, and optimize decision-making across the cultural and organizational sectors. 
 
 ---
 
-##🎵 About Me
+## 🎵 About Me
 - 🎓 **Education:** Psychologist from UNAM 🇲🇽 | Music Business Specialist from Berklee College of Music 🇺🇸.
 - 🔬 **Research Focus:** Consumer Behavior, Generational Habits, Applied Psychometrics and Market Research.
 - 💼 **Professional Track:** Expert in translating psychological insights into strategic marketing data and corporate development.
@@ -17,7 +17,7 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
 
 ---
 
-##🏆 Licenses & Professional Certifications
+## 🏆 Licenses & Professional Certifications
 * **Sixty Years of Artificial Intelligence** | UNAM 🇲🇽
 * **Building Your Career in Music: Developing A Brand and Funding Your Music** | Berklee College of Music 🇺🇸
 * **Copyright Law in the Music Business** | Berklee College of Music 🇺🇸
@@ -39,7 +39,7 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
 * **Introducción a Ciencia de Datos** | Tecnolochicas 🇲🇽
 * **Data Analyst Jr.** | Tecnolochicas 🇲🇽
 
-##🔬 Research & Publications
+## 🔬 Research & Publications
 📊 **Undergraduate Thesis (2025):**
 * *"Posicionamiento y hábitos de consumo del 'rock' desde el comportamiento del consumidor: un estudio entre las generaciones baby boomers, x, millennials y centennials en población mexicana de la zona metropolitana del Valle de México." - [https://tesiunamdocumentos.dgb.unam.mx/ptd2025/jul_sep/0877253/Index.html]
 * 📰 **Science Communication:** Author of the article *"Psicología Organizacional ¿Y "Rock"?* for the UNAM Organiational Psychology Bulletin (Page 9), documenting the scientific research process behind the Music Business.
@@ -47,7 +47,7 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
 
 ---
 
-##🗣️ International Conferences & Speaking Engagements
+## 🗣️ International Conferences & Speaking Engagements
 
 * 🇲🇽 ** III Congreso Internacional de Psicología del Trabajo, la Salud Ocupacional y las Organizaciones** | *UNAM (Septiembre, 2026)*
   * **Presentation 1:** *"Posicionamiento y Hábitos de Consumo del 'Rock' desde el Comportamiento del Consumidor: Un estudio generacional"* (Track: Investigación de Mercados).
@@ -60,7 +60,7 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
 
 ---
 
-##💼 Professional Experience 
+## 💼 Professional Experience 
 * **Research Psychologist & Interviewer** | *Laboratorio de Innovación en Psicología del Trabbajo y las Organizaciones, UNAM*
 * **Bilingual Content Creator & Storyteller** | *Digital Media & Strategic Narrative Production*
 * **Research Psychologist** | *Fundación Libre Para La Unión Y El Desarrollo En Educación Social A.C.*
@@ -71,7 +71,7 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
 
 ---
 
-##🖋️ Teaching & Workshops Delivered
+## 🖋️ Teaching & Workshops Delivered
 
 * 🔒 **Instructor:** *"First Steps in Cybersecurity" (Primeros pasos en Ciberseguridad)* | Facultad de Psicología, UNAM (Audience: 36 participants).
 * 👥 **Co-Instructor:** *"oweer and Dominance in Organizations" (Poder y Dominio en las Organizaciones)* | Facultad de Psicología, UNA (Audience: 40 participants).
