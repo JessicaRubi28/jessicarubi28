@@ -57,7 +57,7 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
   * **Presentation 1:** *"La técnica de Marco de Especificaciones para la construcción de una encuesta de Posicionamiento"
   *  **Presentation 2:** *"Posicionamiento del 'Rock' en Cuatro Generaciones"*.
  
- *🇲🇽 **XV Coloquio de psicología Organizacional: 50 años de Psicología Organizacional en México** | *UNAM (Oct 2023)*
+* 🇲🇽 **XV Coloquio de psicología Organizacional: 50 años de Psicología Organizacional en México** | *UNAM (Oct 2023)*
   * **Presentation:** *"Psicionamiento de la música en población mexicana"*.
 
 ---
