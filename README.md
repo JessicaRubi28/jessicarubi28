@@ -49,13 +49,13 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
 
 ## 🗣️ International Conferences & Speaking Engagements
 
-* 🇲🇽 ** III Congreso Internacional de Psicología del Trabajo, la Salud Ocupacional y las Organizaciones** | *UNAM (Septiembre, 2026)*
+*🇲🇽 ** III Congreso Internacional de Psicología del Trabajo, la Salud Ocupacional y las Organizaciones** | *UNAM (Septiembre, 2026)*
   * **Presentation 1:** *"Posicionamiento y Hábitos de Consumo del 'Rock' desde el Comportamiento del Consumidor: Un estudio generacional"* (Track: Investigación de Mercados).
   * **Presentation 2:** *"Música y Trabajo: Preferencias Hábitos y Efectos en las Generaciones X y Millennials"* (Track: Factores Psicosociales Laborales).
-* 🇲🇽 ** II Congreso Internacional de Psicología del Trabajo, la Salud Ocupacional y las Organizaciones** | *UNAM (Septiembre, 2025)*
+ *🇲🇽 ** II Congreso Internacional de Psicología del Trabajo, la Salud Ocupacional y las Organizaciones** | *UNAM (Septiembre, 2025)*
   * **Presentation 1:** *"La técnica de Marco de Especificaciones para la construcción de una encuesta de Posicionamiento"
   *  **Presentation 2:** *"Posicionamiento del 'Rock' en Cuatro Generaciones"*.
-* 🇲🇽 ** XV Coloquio de psicología Organizacional: 50 años de Psicología Organizacional en México** | *UNAM (Oct 2023)*
+ *🇲🇽 ** XV Coloquio de psicología Organizacional: 50 años de Psicología Organizacional en México** | *UNAM (Oct 2023)*
   * **Presentation:** *"Psicionamiento de la música en población mexicana"*.
 
 ---
