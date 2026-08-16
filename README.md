@@ -54,7 +54,7 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
   * **Presentation 2:** *"Música y Trabajo: Preferencias Hábitos y Efectos en las Generaciones X y Millennials"* (Track: Factores Psicosociales Laborales).
 
 * 🇲🇽 **II Congreso Internacional de Psicología del Trabajo, la Salud Ocupacional y las Organizaciones** | *UNAM (Septiembre, 2025)*
-  * **Presentation 1:** *"La técnica de Marco de Especificaciones para la construcción de una encuesta de Posicionamiento"
+  * **Presentation 1:** *"La técnica de Marco de Especificaciones para la construcción de una encuesta de Posicionamiento"*.
   *  **Presentation 2:** *"Posicionamiento del 'Rock' en Cuatro Generaciones"*.
  
 * 🇲🇽 **XV Coloquio de psicología Organizacional: 50 años de Psicología Organizacional en México** | *UNAM (Oct 2023)*
