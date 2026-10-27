@@ -38,6 +38,10 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
 * **Habilidades de Excel para el Negocio: Conceptos básicos** | Macquarie University 🇦🇺
 * **Introducción a Ciencia de Datos** | Tecnolochicas 🇲🇽
 * **Data Analyst Jr.** | Tecnolochicas 🇲🇽
+* **Innovation Through Design: Think, Make, Break, Repeat** | The University of Sydney 🇦🇺
+* **AI, Empathy & Ethics** | University of California, Santa Cruz 🇺🇸
+* **Inicio y Planificación de Proyectos** | University of California, Irvine 🇺🇸
+* **Brand Manegement, Aligning, Business, Brand and Behaviour** | University of London 🇬🇧
 
 ## 🔬 Research & Publications
 📊 **Undergraduate Thesis (2025):**
@@ -57,7 +61,7 @@ I am **Psychologist** specialized in **Music Business, Consumer Behavior, and Da
   * **Presentation 1:** *"La técnica de Marco de Especificaciones para la construcción de una encuesta de Posicionamiento"*.
   *  **Presentation 2:** *"Posicionamiento del 'Rock' en Cuatro Generaciones"*.
  
-* 🇲🇽 **XV Coloquio de psicología Organizacional: 50 años de Psicología Organizacional en México** | *UNAM (Oct 2023)*
+* 🇲🇽 **XV Coloquio de Psicología Organizacional: 50 años de Psicología Organizacional en México** | *UNAM (Oct 2023)*
   * **Presentation:** *"Psicionamiento de la música en población mexicana"*.
 
 ---
